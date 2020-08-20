@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D9689686-B814-4042-AEFA-8FDF1F32A287}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{97E1E38C-B4E0-45FD-B52D-37249A1AF5FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varyence.PrimitiveObsession.ConsoleApp", "src\Varyence.PrimitiveObsession.ConsoleApp\Varyence.PrimitiveObsession.ConsoleApp.csproj", "{84788775-7BF5-4E8A-A809-5A590659B912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varyence.PrimitiveObsession.Domain", "src\Varyence.PrimitiveObsession.Domain\Varyence.PrimitiveObsession.Domain.csproj", "{F2113F14-4CBB-4641-AB31-3E1238F241D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84788775-7BF5-4E8A-A809-5A590659B912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84788775-7BF5-4E8A-A809-5A590659B912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84788775-7BF5-4E8A-A809-5A590659B912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84788775-7BF5-4E8A-A809-5A590659B912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2113F14-4CBB-4641-AB31-3E1238F241D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2113F14-4CBB-4641-AB31-3E1238F241D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2113F14-4CBB-4641-AB31-3E1238F241D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2113F14-4CBB-4641-AB31-3E1238F241D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{84788775-7BF5-4E8A-A809-5A590659B912} = {D9689686-B814-4042-AEFA-8FDF1F32A287}
+		{F2113F14-4CBB-4641-AB31-3E1238F241D5} = {D9689686-B814-4042-AEFA-8FDF1F32A287}
+	EndGlobalSection
+EndGlobal
